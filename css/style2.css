@@ -1,0 +1,11 @@
+.inner-rectangle {
+    position: absolute;
+    top: 170px;
+    left: 100px;
+    width: 1350px;
+    height: 300px;
+    background-color: #dbdeb1; /* สีพื้นหลังของสี่เหลี่ยมด้านบน */
+    border-radius: 20px;
+    z-index: 1; /* ให้สี่เหลี่ยมนี้อยู่บนสี่เหลี่ยมอื่น */
+
+}
