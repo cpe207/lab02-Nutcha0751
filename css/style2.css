@@ -1,5 +1,23 @@
-h2 {
+h1 {
     font-size: 50px;
     padding-top: 0px;
     padding-left: 50px;
+}
+
+h2 {
+    font-size: 35px;
+    line-height: 0.1;
+    padding-top: 0px;
+    padding-left: 50px;
+}
+
+h3{
+    font-size: 20px;
+    padding-top: 0px;
+    padding-left: 150px;
+}
+
+img {
+    margin-left: 50px;
+    padding-top: 20px;
 }
