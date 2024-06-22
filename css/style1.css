@@ -23,4 +23,22 @@
     .navbar a:hover {
         background-color: #ddd; /* เปลี่ยนสีพื้นหลังเมื่อชี้ mouse */
         color: black;
-    }
+    }.facebook {
+	color: #933;
+	font-weight: bold;
+}
+.Instagram {
+	color: #933;
+	font-weight: bold;
+}
+.center-text table {
+	font-size: 20px;
+	color: #933;
+	font-weight: bold;
+}
+.center-text p {
+	font-weight: bold;
+}
+Bunny jump {
+	font-size: 20px;
+}
