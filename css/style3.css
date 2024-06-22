@@ -19,6 +19,5 @@ body {
     border-top-left-radius: 100px;
     border-top-right-radius: 100px;
     transition: bottom 0.5s;
-    z-index: -1; /* เพื่อให้ครึ่งวงกลมอยู่ด้านหลังเนื้อหาอื่นๆ */
 }
 

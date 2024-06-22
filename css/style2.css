@@ -1,3 +1,25 @@
+.center-header {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 35px;
+}
+.center-header .center-header {
+	font-family: "Comic Sans MS", cursive;
+}
+.center-header .center-header {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+.center-header .center-header {
+	font-family: "Arial Black", Gadget, sans-serif;
+}
+.center-header .center-header {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 50px;
+}
+.font {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+}
+
 h1 {
     font-size: 50px;
     padding-top: 0px;
@@ -12,12 +34,85 @@ h2 {
 }
 
 h3{
-    font-size: 20px;
-    padding-top: 0px;
-    padding-left: 150px;
+	font-size: 20px;
+	padding-top: 0px;
+	padding-left: 150px;
+	font-family: Arial, Helvetica, sans-serif;
 }
 
 img {
     margin-left: 50px;
     padding-top: 20px;
+}
+.rounded-image {
+  border-radius: 20%;
+}
+.center-header {
+	font-family: Arial, Helvetica, sans-serif;
+}
+.EducationBackgroung {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	font-weight: bold;
+}
+.School {
+	color: #933;
+	font-weight: bold;
+}
+.school {
+	color: #933;
+	font-weight: bold;
+}
+.school {
+	color: #933;
+	font-size: 20px;
+}
+.School {
+	font-size: 20px;
+}
+body p {
+	font-size: 20px;
+}
+.skills {
+	font-size: 24px;
+	font-weight: bold;
+}
+.skills div {
+	font-family: Arial, Helvetica, sans-serif;
+}
+.hobbies {
+	font-size: 24px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+}
+.Youtube {
+	font-size: 20px;
+}
+.Music {
+	font-size: 20px;
+}
+.Design {
+	font-size: 20px;
+}
+.SketchUp {
+	font-size: 20px;
+}
+.LEGOEv3 {
+	font-size: 20px;
+}
+
+.EducationBackgroung {
+   	border: 0px solid #000; /* เพิ่มกรอบสีดำขนาด 2px */
+    padding: 0px; /* เพิ่มระยะห่างภายในกรอบ */
+   	background-color: #dcdbd7; /* เพิ่มสีพื้นหลังให้ข้อความ */
+}
+.skills {
+   	border: 0px solid #000; /* เพิ่มกรอบสีดำขนาด 2px */
+    padding: 0px; /* เพิ่มระยะห่างภายในกรอบ */
+   	background-color: #dcdbd7; /* เพิ่มสีพื้นหลังให้ข้อความ */
+}
+.hobbies {
+   	border: 0px solid #000; /* เพิ่มกรอบสีดำขนาด 2px */
+    padding: 0px; /* เพิ่มระยะห่างภายในกรอบ */
+   	background-color: #dcdbd7; /* เพิ่มสีพื้นหลังให้ข้อความ */
 }
