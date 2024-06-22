@@ -1,0 +1,17 @@
+.center-header {
+    text-align: center;
+}
+.center-link {
+    display: block; /* จัดให้ลิงก์เป็นบล็อก (block element) เพื่อให้ text-align: center; ทำงานได้ */
+    text-align: center;
+}
+h1 {
+    font-size: 50px;
+}
+a {
+    color: black;
+    font-size: 20px;
+}
+.label {
+    text-decoration: none; /* ไม่ให้มีเส้นใต้ข้อความ */
+}
